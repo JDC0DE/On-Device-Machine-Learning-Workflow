@@ -1,0 +1,33 @@
+<annotation>
+<folder>validate</folder>
+<filename>3e2a13cb-20230228_184653.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>3024</width>
+<height>4032</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>green apple</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>386</xmin>
+<ymin>1062</ymin>
+<xmax>2234</xmax>
+<ymax>2694</ymax>
+</bndbox>
+</object>
+</annotation>
